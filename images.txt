@@ -1,7 +1,7 @@
 mobtitude/vpn-pptp:latest
 vimagick/pptp:latest
 hwdsl2/ipsec-vpn-server:latest
-simple-nuget-server:0.5
+sunside/simple-nuget-server:0.5
 registry:2.7.1
 redis:7.4.0
 rabbitmq:3.13.6-management
