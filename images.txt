@@ -1,4 +1,4 @@
-elasticsearch:7.17.7
+elasticsearch:8.0.0
 mobtitude/vpn-pptp:latest
 vimagick/pptp:latest
 hwdsl2/ipsec-vpn-server:latest
