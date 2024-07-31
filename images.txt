@@ -1,3 +1,5 @@
+mysql:8.0.39
+redis:7.4.6
 jenkins/jenkins:2.452.3-lts-jdk17
 gitlab/gitlab-ce:17.2.1-ce.0
 nginx:1.26.1
