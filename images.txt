@@ -1,5 +1,6 @@
-vpn-pptp:latest
-pptp:latest
+mobtitude/vpn-pptp:latest
+vimagick/pptp:latest
+hwdsl2/ipsec-vpn-server:latest
 simple-nuget-server:0.5
 registry:2.7.1
 redis:7.4.0
