@@ -1,8 +1,7 @@
-elasticsearch:7.17.18
-elasticsearch:8.0.1
 mobtitude/vpn-pptp:latest
 vimagick/pptp:latest
 hwdsl2/ipsec-vpn-server:latest
+ubergarm/l2tp-ipsec-vpn-client:latest
 sunside/simple-nuget-server:0.5
 registry:2.7.1
 redis:7.4.0
