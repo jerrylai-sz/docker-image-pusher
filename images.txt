@@ -1,4 +1,4 @@
-jenkins/jenkins:2.462.2-lts-jdk17
+jenkins/jenkins:2.462.3-lts-jdk17
 alpine:3.8
 mobtitude/vpn-pptp:latest
 vimagick/pptp:latest
