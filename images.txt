@@ -1,6 +1,6 @@
 ghcr.io/jumpserver/jms_all:v4.4.1
 jenkins/jenkins:2.479.2-lts-jdk17
-gitlab/gitlab-ce:17.5.0-ce.0
+gitlab/gitlab-ce:17.6.0-ce.0
 alpine:3.8
 mobtitude/vpn-pptp:latest
 vimagick/pptp:latest
