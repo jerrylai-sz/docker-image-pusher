@@ -1,4 +1,4 @@
-jenkins/jenkins:2.492.1-lts-jdk17
+jenkins/jenkins:2.492.2-lts-jdk17
 gitlab/gitlab-ce:17.7.1-ce.0
 ghcr.io/jumpserver/jms_all:v4.4.1
 alpine:3.8
