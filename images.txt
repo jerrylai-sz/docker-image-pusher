@@ -1,4 +1,4 @@
-jenkins/jenkins:2.528.1-lts-jdk21
+jenkins/jenkins:2.528.2-lts-jdk21
 nginx:1.26.3
 nginx:1.28.0
 nginx:1.29.1
