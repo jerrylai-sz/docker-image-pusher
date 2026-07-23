@@ -1,1 +1,1 @@
-elasticsearch:8.19.19
+redis:8.6.4
