@@ -1,1 +1,2 @@
-lmk123/migpt-server:latest
+nginx:1.30.5
+nginx:1.28.3
