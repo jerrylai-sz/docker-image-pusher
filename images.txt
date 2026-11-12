@@ -1,2 +1,6 @@
-nginx:1.30.5
-nginx:1.28.3
+gitlab/gitlab-ce:18.11.0-ce.0
+gitlab/gitlab-ce:19.0.0-ce.0
+gitlab/gitlab-ce:19.2.0-ce.0
+gitlab/gitlab-ce:19.5.0-ce.0
+gitlab/gitlab-ce:19.8.0-ce.0
+gitlab/gitlab-ce:19.11.0-ce.0
